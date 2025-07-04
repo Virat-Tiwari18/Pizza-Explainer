@@ -1,0 +1,5 @@
+{
+  "name": "Pizza Explainer",
+  "description": "A fun web application that uses the Gemini API to explain any topic or concept using a creative pizza analogy.",
+  "requestFramePermissions": []
+}
